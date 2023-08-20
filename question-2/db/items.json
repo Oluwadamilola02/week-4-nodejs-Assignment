@@ -1,0 +1,14 @@
+[
+  {
+    "Name": "book",
+    "Price": "N90",
+    "size": "m",
+    "id": 1
+  },
+  { "Name": "pencil", "Price": "N50", "size": "s", "id": 2 },
+  { "Name": "eraser", "Price": "N40", "size": "s", "id": 3 },
+  { "Name": "duster", "Price": "N20", "size": "m", "id": 4 },
+  { "Name": "bag", "Price": "N70", "size": "l", "id": 5 },
+  { "Name": "chalk", "Price": "N80", "size": "l", "id": 6 },
+  { "Name": "desk", "Price": "N50", "size": "l", "id": 7 }
+]
